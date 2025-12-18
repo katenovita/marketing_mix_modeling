@@ -79,7 +79,7 @@ Validation metrics:
   - But, within the same budget, the allocation supposed to be *TikTok* (48%) > *Instagram* (33%) > *Search* (18%) in order for us to realize more revenue (at Rp 40.2M).
 <img width="4200" height="4200" alt="image" src="https://github.com/user-attachments/assets/ba5f911a-8e34-4470-b62c-84991fd9672d" />
 
-- It is also simulated that even when the bakery reduce its paid media spend by 30% on each of every channel, given the same allocation budget with the initial plan, the bakery can generate Rp 37.6M of revenue per month, which is only about 6% reduction from the initial one.
+- It is also simulated that even when the bakery reduce its paid media spend by 30% on each of every channel, given the same allocation strategy (*Instagram* > *TikTok* > *Search*) with the initial plan, the bakery can generate Rp 37.6M of revenue per month, which is only about 6% reduction from the initial one.
 - And, if the bakery could only spend Rp 1M per month for ad spend, it should allocate that budget 100% to *TikTok* and expect to get Rp 33.3M of revenue for that month.
 <img width="4200" height="4200" alt="image" src="https://github.com/user-attachments/assets/675ed2d0-05bf-4241-90a4-68287519ff81" />
 
